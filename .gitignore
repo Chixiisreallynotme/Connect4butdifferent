@@ -1,12 +1,18 @@
-env.lua
+# Exclude everything by default
+/*
 
-# Build artifacts
-*.exe
-*.love
-*.zip
-build/
-rh/
-*.ico
-*.png
+# Allow game source and assets
+!main.lua
+!conf.lua
 !logo.png
 !logo_256.png
+!src/
+!src/**
+
+# Allow the release executable
+!build/
+!build/connect4.exe
+
+# Safety: keep env files excluded even if in src
+src/env.lua
+supabase_config.lua
