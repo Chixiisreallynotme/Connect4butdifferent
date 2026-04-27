@@ -1,0 +1,12 @@
+env.lua
+
+# Build artifacts
+*.exe
+*.love
+*.zip
+build/
+rh/
+*.ico
+*.png
+!logo.png
+!logo_256.png
