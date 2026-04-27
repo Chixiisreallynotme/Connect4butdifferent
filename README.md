@@ -19,8 +19,8 @@ Une version moderne et complète du jeu Connect 4 built avec le framework LÖVE.
 | **Menu / Retour** | `Echap` |
 
 ### Installation
-1. Téléchargez le fichier `Connect4.exe` depuis la section [Releases](https://github.com/Chixiisreallynotme/Connect4butdifferent/releases/tag/v1.0).
-2. Lancez l'exécutable directement.
+1. Téléchargez le compressé `Connect4.zip` depuis la section [Releases](https://github.com/Chixiisreallynotme/Connect4butdifferent/releases/tag/v1.0).
+2. Lancez l'exécutable directement dedant.
 
 ## Licence
 
